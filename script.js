@@ -1,5 +1,5 @@
-let divElement = document.querySelector('div')
 let tableElement = document.querySelector('table')
+let divElement = document.querySelector('div')
 
 var Game = {
     start(){
