@@ -29,6 +29,11 @@ body
     margin-left: -100px; 
 }
 
+div 
+{
+    text-align: center;
+}
+
 button
 {
     color: rgb(224, 248, 8) !important;
